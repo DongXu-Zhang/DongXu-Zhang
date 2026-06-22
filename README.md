@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td width="220" align="center" valign="top">
-  <img src="./images/avatar.jpg" width="200" style="border-radius:12px; background:#ffffff;" alt="Dongxu Zhang">
+  <img src="https://raw.githubusercontent.com/DongXu-Zhang/DongXu-Zhang/main/images/avatar.jpg" width="200" alt="Dongxu Zhang">
   <br><br>
   <a href="https://dongxu-zhang.github.io/"><b>🏠 Homepage</b></a><br>
   <a href="https://scholar.google.com/citations?user=RY-90HIAAAAJ&hl=zh-CN"><b>📚 Google Scholar</b></a><br>
