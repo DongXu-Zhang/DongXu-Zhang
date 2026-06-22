@@ -6,26 +6,17 @@
   <img src="https://img.shields.io/badge/Research-LLM_Reasoning_%7C_3D_Vision-green" alt="Research">
 </p>
 
-<table>
-<tr>
-<td width="220" align="center" valign="top">
-  <img src="https://raw.githubusercontent.com/DongXu-Zhang/DongXu-Zhang/main/images/avatar.jpg" width="200" alt="Dongxu Zhang">
-  <br><br>
-  <a href="https://dongxu-zhang.github.io/"><b>🏠 Homepage</b></a><br>
-  <a href="https://scholar.google.com/citations?user=RY-90HIAAAAJ&hl=zh-CN"><b>📚 Google Scholar</b></a><br>
+<p align="center">
+  <a href="https://dongxu-zhang.github.io/"><b>🏠 Homepage</b></a> ·
+  <a href="https://scholar.google.com/citations?user=RY-90HIAAAAJ&hl=zh-CN"><b>📚 Google Scholar</b></a> ·
   <a href="mailto:zhangdongxu@stu.xjtu.edu.cn"><b>📧 Email</b></a>
-</td>
-<td valign="top">
+</p>
 
 Master's student at **Xi'an Jiaotong University (XJTU)**, advised by [Prof. Jihua Zhu](https://gr.xjtu.edu.cn/web/zhujh). Visiting student at **Shanghai AI Lab**, advised by [Cheng Tan](https://chengtan9907.github.io/). Also collaborating with [Ning Yang](https://scholar.google.com/citations?user=b4cE0J4AAAAJ) at **CASIA**.
 
 **Research interests:** LLM Reasoning · Chain-of-Thought · Multimodal Learning · 3D Point Cloud Perception
 
 **🚀 Actively seeking Ph.D. opportunities for Fall 2027.** Feel free to reach out for collaboration!
-
-</td>
-</tr>
-</table>
 
 ---
 
